@@ -1,4 +1,6 @@
-package com.example.activity;
+package com.example.cachy_bus;
+
+import com.example.activity.R;
 
 import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
@@ -33,6 +35,11 @@ public class MainActivity extends ActionBarActivity {
 
 			}
 		});
+	}
+
+	private Button findViewById(int b1) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }

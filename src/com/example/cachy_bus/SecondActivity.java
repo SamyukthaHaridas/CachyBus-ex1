@@ -1,4 +1,4 @@
-package com.example.activity;
+package com.example.cachy_bus;
 
 import android.app.Activity;
 import android.content.Intent;
